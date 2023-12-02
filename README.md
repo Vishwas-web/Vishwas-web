@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **vishwaspatil9146@gmail.com**
 
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W0RLYJ3)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vishwas-patil-25b847192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishwas-patil-25b847192/" height="30" width="40" /></a>
